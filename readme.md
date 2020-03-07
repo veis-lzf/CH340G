@@ -2,7 +2,7 @@
 
 - 如果需要使用免冷启动下载功能，在第一次使用时，需要用普通USB转TLL下载器给CH340G板上的STC15F104W下载固件（./Firmware/MDK5/Objects/CH340G-DL.hex）
 
-	![CH340G](/Firmware/CH340G-HEX.PNG)
+	![CH340G](./Firmware/CH340G-HEX.PNG)
 
 - 烧录步骤说明：
 

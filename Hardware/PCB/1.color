@@ -1,0 +1,17 @@
+#  View replacement method:
+#  Complete
+
+color -globvis off
+color -vis "BOARD GEOMETRY/SILKSCREEN_TOP"
+color -vis "BOARD GEOMETRY/OUTLINE"
+color -vis "DRAWING FORMAT/DRAWING_ORIGIN"
+color -vis "DRC ERROR CLASS/TOP"
+color -vis "ETCH/TOP"
+color -vis "ETCH/BOTTOM"
+color -vis "PACKAGE GEOMETRY/SILKSCREEN_BOTTOM"
+color -vis "PACKAGE GEOMETRY/SILKSCREEN_TOP"
+color -vis "PIN/TOP"
+color -vis "PIN/BOTTOM"
+color -vis "ROUTE KEEPIN/ALL"
+color -vis "ROUTE KEEPOUT/ALL"
+color -vis "VIA CLASS/TOP"

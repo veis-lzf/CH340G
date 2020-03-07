@@ -1,0 +1,153 @@
+(ExpressProject "ch340g_sch"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\ch340g_sch.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "0")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File "G:\CADENCE ALLEGRO\MY_PRJ\CH340G\SCH\CH340G_SCH.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{Reference}\t{Value}\t{PCB Footprint}")
+    (BOM_Header "Item\tQuantity\tReference\tValue\tPCB Footprint")
+    (BOM_Include_File "G:\CADENCE ALLEGRO\MY_PRJ\CH340G\SCH\CH340G_SCH.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "TRUE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE")
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\ch340g_sch.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (CON2
+      (FullPartName "CON2.Normal")
+      (LibraryName
+         "H:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY_OLD\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON4
+      (FullPartName "CON4.Normal")
+      (LibraryName "G:\CADENCE ALLEGRO\MY_LIB\MY_SCH_LIB\MY_LIB.OLB")
+      (DeviceIndex "0"))
+    (SMT-CON-4P-1R25
+      (FullPartName "SMT-CON-4P-1R25.Normal")
+      (LibraryName "G:\CADENCE ALLEGRO\MY_LIB\MY_SCH_LIB\MY_LIB.OLB")
+      (DeviceIndex "0"))
+    (2N3906
+      (FullPartName "2N3906.Normal")
+      (LibraryName
+         "H:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY_OLD\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    (2N3904
+      (FullPartName "2N3904.Normal")
+      (LibraryName
+         "H:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY_OLD\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    (STC15F104W
+      (FullPartName "STC15F104W.Normal")
+      (LibraryName "G:\CADENCE ALLEGRO\MY_LIB\MY_SCH_LIB\MY_LIB.OLB")
+      (DeviceIndex "0"))
+    ("MOSFET P"
+      (FullPartName "MOSFET P.Normal")
+      (LibraryName "H:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY_OLD\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (FUSEHOLDER
+      (FullPartName "FUSEHOLDER.Normal")
+      (LibraryName "H:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY_OLD\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (FUSE
+      (FullPartName "FUSE.Normal")
+      (LibraryName "H:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY_OLD\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "G:\CADENCE ALLEGRO\MY_LIB\MY_SCH_LIB\MY_LIB.OLB")
+      (DeviceIndex "0"))
+    (RES
+      (FullPartName "RES.Normal")
+      (LibraryName "G:\CADENCE ALLEGRO\MY_LIB\MY_SCH_LIB\MY_LIB.OLB")
+      (DeviceIndex "0"))
+    (Diode
+      (FullPartName "Diode.Normal")
+      (LibraryName "G:\CADENCE ALLEGRO\MY_LIB\MY_SCH_LIB\MY_LIB.OLB")
+      (DeviceIndex "0"))
+    (USB_A
+      (FullPartName "USB_A.Normal")
+      (LibraryName "G:\CADENCE ALLEGRO\MY_LIB\MY_SCH_LIB\MY_LIB.OLB")
+      (DeviceIndex "0"))
+    (CRYSTAL
+      (FullPartName "CRYSTAL.Normal")
+      (LibraryName "H:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY_OLD\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("CAP TAC"
+      (FullPartName "CAP TAC.Normal")
+      (LibraryName "G:\CADENCE ALLEGRO\MY_LIB\MY_SCH_LIB\MY_LIB.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "H:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY_OLD\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "H:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY_OLD\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("GND POWER"
+      (LibraryName "H:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY_OLD\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName "G:\CADENCE ALLEGRO\MY_LIB\MY_SCH_LIB\MY_LIB.OLB")
+      (DeviceIndex "0"))
+    (CH340G
+      (FullPartName "CH340G.Normal")
+      (LibraryName "G:\CADENCE ALLEGRO\MY_LIB\MY_SCH_LIB\MY_LIB.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName
+         "H:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "H:\Cadence\SPB_16.6\tools\capture\library_old")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "g:\cadence allegro\my_prj\ch340g\sch\ch340g_sch.dsn")
+      (Path "Design Resources"
+         "g:\cadence allegro\my_prj\ch340g\sch\ch340g_sch.dsn" "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "g:\cadence allegro\my_prj\ch340g\sch\ch340g_sch.dsn" "SCHEMATIC1"
+         "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 288"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 82 1263 52 381")
+        (Scroll "1121 688")
+        (Zoom "216")
+        (Occurrence "/"))
+      (Path "G:\CADENCE ALLEGRO\MY_PRJ\CH340G\SCH\CH340G_SCH.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (MPSSessionName "12566")
+  (ISPCBBASICLICENSE "false"))

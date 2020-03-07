@@ -1,0 +1,260 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Feb-07-2020 at 17:45:14 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='CH340G_SCH';
+ POST_TIME='Feb 15 2016 19:53:59';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_C0603_0.01UF':;
+
+SECTION_NUMBER 1
+ '@CH340G_SCH.SCHEMATIC1(SCH_1):INS984@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@ch340g_sch.schematic1(sch_1):ins984@my_lib.\cap np.normal\(chips)',
+ P_PATH='@ch340g_sch.schematic1(sch_1):page1_ins984@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_C0603_0.1UF':;
+
+SECTION_NUMBER 1
+ '@CH340G_SCH.SCHEMATIC1(SCH_1):INS1383@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@ch340g_sch.schematic1(sch_1):ins1383@my_lib.\cap np.normal\(chips)',
+ P_PATH='@ch340g_sch.schematic1(sch_1):page1_ins1383@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP TAC_TA3216_10UF':;
+
+SECTION_NUMBER 1
+ '@CH340G_SCH.SCHEMATIC1(SCH_1):INS1414@MY_LIB.CAP TAC.NORMAL(CHIPS)':
+ C_PATH='@ch340g_sch.schematic1(sch_1):ins1414@my_lib.\cap tac.normal\(chips)',
+ P_PATH='@ch340g_sch.schematic1(sch_1):page1_ins1414@my_lib.\cap tac.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_C0603_22PF':;
+
+SECTION_NUMBER 1
+ '@CH340G_SCH.SCHEMATIC1(SCH_1):INS1685@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@ch340g_sch.schematic1(sch_1):ins1685@my_lib.\cap np.normal\(chips)',
+ P_PATH='@ch340g_sch.schematic1(sch_1):page1_ins1685@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_C0603_22PF':;
+
+SECTION_NUMBER 1
+ '@CH340G_SCH.SCHEMATIC1(SCH_1):INS1709@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@ch340g_sch.schematic1(sch_1):ins1709@my_lib.\cap np.normal\(chips)',
+ P_PATH='@ch340g_sch.schematic1(sch_1):page1_ins1709@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP TAC_TA3216_22UF':;
+
+SECTION_NUMBER 1
+ '@CH340G_SCH.SCHEMATIC1(SCH_1):INS3088@MY_LIB.CAP TAC.NORMAL(CHIPS)':
+ C_PATH='@ch340g_sch.schematic1(sch_1):ins3088@my_lib.\cap tac.normal\(chips)',
+ P_PATH='@ch340g_sch.schematic1(sch_1):page1_ins3088@my_lib.\cap tac.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_C0603_0.1UF/NC':;
+
+SECTION_NUMBER 1
+ '@CH340G_SCH.SCHEMATIC1(SCH_1):INS6283@MY_LIB.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@ch340g_sch.schematic1(sch_1):ins6283@my_lib.\cap np.normal\(chips)',
+ P_PATH='@ch340g_sch.schematic1(sch_1):page1_ins6283@my_lib.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE_SOD123_1N5819':;
+
+SECTION_NUMBER 1
+ '@CH340G_SCH.SCHEMATIC1(SCH_1):INS2302@MY_LIB.DIODE.NORMAL(CHIPS)':
+ C_PATH='@ch340g_sch.schematic1(sch_1):ins2302@my_lib.\diode.normal\(chips)',
+ P_PATH='@ch340g_sch.schematic1(sch_1):page1_ins2302@my_lib.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_LED0603_RED LED':;
+
+SECTION_NUMBER 1
+ '@CH340G_SCH.SCHEMATIC1(SCH_1):INS2619@MY_LIB.LED.NORMAL(CHIPS)':
+ C_PATH='@ch340g_sch.schematic1(sch_1):ins2619@my_lib.\led.normal\(chips)',
+ P_PATH='@ch340g_sch.schematic1(sch_1):page1_ins2619@my_lib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_LED0603_YELLOW LED':;
+
+SECTION_NUMBER 1
+ '@CH340G_SCH.SCHEMATIC1(SCH_1):INS2651@MY_LIB.LED.NORMAL(CHIPS)':
+ C_PATH='@ch340g_sch.schematic1(sch_1):ins2651@my_lib.\led.normal\(chips)',
+ P_PATH='@ch340g_sch.schematic1(sch_1):page1_ins2651@my_lib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'LED_LED0603_GREEN LED':;
+
+SECTION_NUMBER 1
+ '@CH340G_SCH.SCHEMATIC1(SCH_1):INS5238@MY_LIB.LED.NORMAL(CHIPS)':
+ C_PATH='@ch340g_sch.schematic1(sch_1):ins5238@my_lib.\led.normal\(chips)',
+ P_PATH='@ch340g_sch.schematic1(sch_1):page1_ins5238@my_lib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ F1 'FUSE_FULSE0805_1A':;
+
+SECTION_NUMBER 1
+ '@CH340G_SCH.SCHEMATIC1(SCH_1):INS2984@DISCRETE.FUSE.NORMAL(CHIPS)':
+ C_PATH='@ch340g_sch.schematic1(sch_1):ins2984@discrete.\fuse.normal\(chips)',
+ P_PATH='@ch340g_sch.schematic1(sch_1):page1_ins2984@discrete.\fuse.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'SMT-CON-4P-1R25_1_25_PWT_4P_SMT':;
+
+SECTION_NUMBER 1
+ '@CH340G_SCH.SCHEMATIC1(SCH_1):INS6803@MY_LIB.SMT-CON-4P-1R25.NORMAL(CHIPS)':
+ C_PATH='@ch340g_sch.schematic1(sch_1):ins6803@my_lib.\smt-con-4p-1r25.normal\(chips)',
+ P_PATH='@ch340g_sch.schematic1(sch_1):page1_ins6803@my_lib.\smt-con-4p-1r25.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON4_SIP-4_CON4':;
+
+SECTION_NUMBER 1
+ '@CH340G_SCH.SCHEMATIC1(SCH_1):INS7463@MY_LIB.CON4.NORMAL(CHIPS)':
+ C_PATH='@ch340g_sch.schematic1(sch_1):ins7463@my_lib.\con4.normal\(chips)',
+ P_PATH='@ch340g_sch.schematic1(sch_1):page1_ins7463@my_lib.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'CON2_SIP-2_CON2':;
+
+SECTION_NUMBER 1
+ '@CH340G_SCH.SCHEMATIC1(SCH_1):INS9711@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@ch340g_sch.schematic1(sch_1):ins9711@connector.\con2.normal\(chips)',
+ P_PATH='@ch340g_sch.schematic1(sch_1):page1_ins9711@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 '2N3906_0_SOT-23_S8550':;
+
+SECTION_NUMBER 1
+ '@CH340G_SCH.SCHEMATIC1(SCH_1):INS5997@CH340G_SCH.2N3906_0.NORMAL(CHIPS)':
+ C_PATH='@ch340g_sch.schematic1(sch_1):ins5997@ch340g_sch.\2n3906_0.normal\(chips)',
+ P_PATH='@ch340g_sch.schematic1(sch_1):page1_ins5997@ch340g_sch.\2n3906_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RES_R0603_300R':;
+
+SECTION_NUMBER 1
+ '@CH340G_SCH.SCHEMATIC1(SCH_1):INS2373@MY_LIB.RES.NORMAL(CHIPS)':
+ C_PATH='@ch340g_sch.schematic1(sch_1):ins2373@my_lib.\res.normal\(chips)',
+ P_PATH='@ch340g_sch.schematic1(sch_1):page1_ins2373@my_lib.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RES_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@CH340G_SCH.SCHEMATIC1(SCH_1):INS2588@MY_LIB.RES.NORMAL(CHIPS)':
+ C_PATH='@ch340g_sch.schematic1(sch_1):ins2588@my_lib.\res.normal\(chips)',
+ P_PATH='@ch340g_sch.schematic1(sch_1):page1_ins2588@my_lib.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RES_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@CH340G_SCH.SCHEMATIC1(SCH_1):INS6015@MY_LIB.RES.NORMAL(CHIPS)':
+ C_PATH='@ch340g_sch.schematic1(sch_1):ins6015@my_lib.\res.normal\(chips)',
+ P_PATH='@ch340g_sch.schematic1(sch_1):page1_ins6015@my_lib.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RES_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@CH340G_SCH.SCHEMATIC1(SCH_1):INS5057@MY_LIB.RES.NORMAL(CHIPS)':
+ C_PATH='@ch340g_sch.schematic1(sch_1):ins5057@my_lib.\res.normal\(chips)',
+ P_PATH='@ch340g_sch.schematic1(sch_1):page1_ins5057@my_lib.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RES_R0603_1K':;
+
+SECTION_NUMBER 1
+ '@CH340G_SCH.SCHEMATIC1(SCH_1):INS5258@MY_LIB.RES.NORMAL(CHIPS)':
+ C_PATH='@ch340g_sch.schematic1(sch_1):ins5258@my_lib.\res.normal\(chips)',
+ P_PATH='@ch340g_sch.schematic1(sch_1):page1_ins5258@my_lib.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'CH340G_SOIC-16_CH340G':;
+
+SECTION_NUMBER 1
+ '@CH340G_SCH.SCHEMATIC1(SCH_1):INS927@MY_LIB.CH340G.NORMAL(CHIPS)':
+ C_PATH='@ch340g_sch.schematic1(sch_1):ins927@my_lib.\ch340g.normal\(chips)',
+ P_PATH='@ch340g_sch.schematic1(sch_1):page1_ins927@my_lib.\ch340g.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'STC15F104W_SOIC-8_STC15F104W':;
+
+SECTION_NUMBER 1
+ '@CH340G_SCH.SCHEMATIC1(SCH_1):INS3340@MY_LIB.STC15F104W.NORMAL(CHIPS)':
+ C_PATH='@ch340g_sch.schematic1(sch_1):ins3340@my_lib.\stc15f104w.normal\(chips)',
+ P_PATH='@ch340g_sch.schematic1(sch_1):page1_ins3340@my_lib.\stc15f104w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ USB1 'USB_A_USB-A-M-DIP_USB_A':;
+
+SECTION_NUMBER 1
+ '@CH340G_SCH.SCHEMATIC1(SCH_1):INS1974@MY_LIB.USB_A.NORMAL(CHIPS)':
+ C_PATH='@ch340g_sch.schematic1(sch_1):ins1974@my_lib.\usb_a.normal\(chips)',
+ P_PATH='@ch340g_sch.schematic1(sch_1):page1_ins1974@my_lib.\usb_a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL_HC-49S_12MHZ':;
+
+SECTION_NUMBER 1
+ '@CH340G_SCH.SCHEMATIC1(SCH_1):INS1638@DISCRETE.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@ch340g_sch.schematic1(sch_1):ins1638@discrete.\crystal.normal\(chips)',
+ P_PATH='@ch340g_sch.schematic1(sch_1):page1_ins1638@discrete.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj" 
+TO ".\Objects\CH340G-DL" 
+PRINT(".\Listings\CH340G-DL.m51")

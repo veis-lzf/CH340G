@@ -1,0 +1,13 @@
+{ Using PSTWRITER 16.6.0 d001Feb-07-2020 at 17:45:10 }
+
+#1 WARNING(ORCAP-36006): Part Name "SMT-CON-4P-1R25_1_25_PWT_4P_SMT-CON-4P-1R25" is renamed to "SMT-CON-4P-1R25_1_25_PWT_4P_SMT".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... G:\CADENCE ALLEGRO\MY_PRJ\CH340G\SCH\allegro/pstchip.dat
+
+Loading... G:\CADENCE ALLEGRO\MY_PRJ\CH340G\SCH\allegro/pstchip.dat
+
+Loading... G:\CADENCE ALLEGRO\MY_PRJ\CH340G\SCH\allegro/pstxprt.dat
+
+Loading... G:\CADENCE ALLEGRO\MY_PRJ\CH340G\SCH\allegro/pstxnet.dat
+packaging the design view...

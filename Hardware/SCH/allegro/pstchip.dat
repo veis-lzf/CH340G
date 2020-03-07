@@ -1,0 +1,419 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 16.6.0 d001Feb-07-2020 at 17:45:14}
+primitive 'CAP NP_C0603_0.01UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='C0603';
+    VALUE='0.01uF';
+  end_body;
+end_primitive;
+primitive 'CAP NP_C0603_0.1UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='C0603';
+    VALUE='0.1uF';
+  end_body;
+end_primitive;
+primitive 'CAP TAC_TA3216_10UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP TAC';
+    JEDEC_TYPE='TA3216';
+    VALUE='10uF';
+  end_body;
+end_primitive;
+primitive 'CAP NP_C0603_22PF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='C0603';
+    VALUE='22pF';
+  end_body;
+end_primitive;
+primitive 'CAP TAC_TA3216_22UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP TAC';
+    JEDEC_TYPE='TA3216';
+    VALUE='22uF';
+  end_body;
+end_primitive;
+primitive 'CAP NP_C0603_0.1UF/NC';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='C0603';
+    VALUE='0.1uF/NC';
+  end_body;
+end_primitive;
+primitive 'DIODE_SOD123_1N5819';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='Diode';
+    JEDEC_TYPE='SOD123';
+    VALUE='1N5819';
+  end_body;
+end_primitive;
+primitive 'LED_LED0603_RED LED';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'K':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='LED';
+    JEDEC_TYPE='LED0603';
+    VALUE='RED LED';
+  end_body;
+end_primitive;
+primitive 'LED_LED0603_YELLOW LED';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'K':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='LED';
+    JEDEC_TYPE='LED0603';
+    VALUE='YELLOW LED';
+  end_body;
+end_primitive;
+primitive 'LED_LED0603_GREEN LED';
+  pin
+    'A':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'K':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='LED';
+    JEDEC_TYPE='LED0603';
+    VALUE='GREEN LED';
+  end_body;
+end_primitive;
+primitive 'FUSE_FULSE0805_1A';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='FUSE';
+    JEDEC_TYPE='FULSE0805';
+    VALUE='1A';
+  end_body;
+end_primitive;
+primitive 'SMT-CON-4P-1R25_1_25_PWT_4P_SMT';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    '6':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='SMT-CON-4P-1R25';
+    JEDEC_TYPE='1_25_PWT_4P';
+    VALUE='SMT-CON-4P-1R25';
+  end_body;
+end_primitive;
+primitive 'CON4_SIP-4_CON4';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CON4';
+    JEDEC_TYPE='SIP-4';
+    VALUE='CON4';
+  end_body;
+end_primitive;
+primitive 'CON2_SIP-2_CON2';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CON2';
+    JEDEC_TYPE='SIP-2';
+    VALUE='CON2';
+  end_body;
+end_primitive;
+primitive '2N3906_0_SOT-23_S8550';
+  pin
+    'COLLECTOR':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'EMITTER':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'BASE':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(*)';
+  end_pin;
+  body
+    PART_NAME='2N3906_0';
+    JEDEC_TYPE='SOT-23';
+    VALUE='S8550';
+  end_body;
+end_primitive;
+primitive 'RES_R0603_300R';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RES';
+    JEDEC_TYPE='R0603';
+    VALUE='300R';
+  end_body;
+end_primitive;
+primitive 'RES_R0603_1K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RES';
+    JEDEC_TYPE='R0603';
+    VALUE='1k';
+  end_body;
+end_primitive;
+primitive 'CH340G_SOIC-16_CH340G';
+  pin
+    'GND':
+      PIN_NUMBER='(1)';
+      PINUSE='POWER';
+    'TXD':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'RXD':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'V3':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'D+':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    'D-':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    'XI':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+    'XO':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+    'CTS#':
+      PIN_NUMBER='(9)';
+      PINUSE='UNSPEC';
+    'DSR#':
+      PIN_NUMBER='(10)';
+      PINUSE='UNSPEC';
+    'RI#':
+      PIN_NUMBER='(11)';
+      PINUSE='UNSPEC';
+    'DCD#':
+      PIN_NUMBER='(12)';
+      PINUSE='UNSPEC';
+    'DTR#':
+      PIN_NUMBER='(13)';
+      PINUSE='UNSPEC';
+    'RTS#':
+      PIN_NUMBER='(14)';
+      PINUSE='UNSPEC';
+    'R232':
+      PIN_NUMBER='(15)';
+      PINUSE='UNSPEC';
+    'VCC':
+      PIN_NUMBER='(16)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    PART_NAME='CH340G';
+    JEDEC_TYPE='SOIC-16';
+    VALUE='CH340G';
+  end_body;
+end_primitive;
+primitive 'STC15F104W_SOIC-8_STC15F104W';
+  pin
+    'P3.4':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'VCC':
+      PIN_NUMBER='(2)';
+      PINUSE='POWER';
+    'P3.5':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'GND':
+      PIN_NUMBER='(4)';
+      PINUSE='POWER';
+    'P3.3':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+    'P3.2':
+      PIN_NUMBER='(7)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'P3.1/TXD':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(*)';
+      OUTPUT_LOAD='(*)';
+      BIDIRECTIONAL='TRUE';
+    'P3.0/RXD':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='STC15F104W';
+    JEDEC_TYPE='SOIC-8';
+    VALUE='STC15F104W';
+  end_body;
+end_primitive;
+primitive 'USB_A_USB-A-M-DIP_USB_A';
+  pin
+    'VCC':
+      PIN_NUMBER='(1)';
+      PINUSE='POWER';
+    'D-':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'D+':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'GND':
+      PIN_NUMBER='(4)';
+      PINUSE='POWER';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    '6':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='USB_A';
+    JEDEC_TYPE='USB-A-M-DIP';
+    VALUE='USB_A';
+  end_body;
+end_primitive;
+primitive 'CRYSTAL_HC-49S_12MHZ';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CRYSTAL';
+    JEDEC_TYPE='HC-49S';
+    VALUE='12MHz';
+  end_body;
+end_primitive;
+END.
